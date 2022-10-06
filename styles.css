@@ -1,0 +1,233 @@
+/*styles.css*/
+
+.full-header {
+    background-color: rgb(131, 32, 32);
+    margin-top: auto;
+}
+
+.header {
+    display: flex;
+    background-color: black;
+    padding: 15px;
+    
+}
+
+
+.section-1 {
+    background-color: black;
+    padding: 46px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 0%;
+    width: 675px;
+    height: 300px;
+    margin-bottom: 1em;
+}
+
+.QT, .CN, .DRM, .DV {
+    margin-top: 30px;
+    height: 200px;
+}
+
+.QT { 
+    width: 200px;
+}
+
+.illustrations {
+    display: flex;
+    gap: 8px;
+    justify-content: space-evenly;
+}
+
+.section-2 {
+    background-color: rgb(131, 32, 32);
+    padding: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 65px;
+    padding-bottom: 20px;
+}
+
+.section-3 {
+    background-color: rgb(131, 32, 32);
+    padding: 70px;
+}
+
+.favorite-movies-2 {
+    display: flex;
+    background-color: black;
+    padding: 20px;
+    justify-content: space-evenly;
+    
+}
+
+.image-1 {
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.influences {
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+
+.directors {
+    color: white;
+}
+
+.quote-author {
+   
+    display: flex;
+    width: 550px;
+    margin-top: .7em;
+    justify-content: flex-end;
+}
+
+.quote {
+    display: flex;
+    justify-content: flex-end;
+    width: 550px;
+    
+}
+
+.links {
+    margin-left: auto;
+    display: flex;
+    gap: 20px;
+    margin-right: 17px;
+}
+
+.logo {
+    margin-left: 17px;
+    color: white;
+}
+
+.media {
+    display: flex;
+    gap: 10px;
+    padding: 30px;
+    
+}
+
+.media2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 170px;
+    width: 400px;
+    
+}
+
+.SC {
+    width: 300px;
+
+}
+
+.key {
+    font-size: 40px;
+    
+    margin-bottom: 9px;
+}
+
+.exploration {
+    
+    font-size: 17px;
+    width: 400px;
+   margin-bottom: 13px;
+}
+
+
+body {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: black;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+button {
+    color: white;
+    background-color: black;
+    
+}
+ .great, .great2 {
+    color: white;
+ }
+
+.image-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+}
+
+.RR {
+    font-size: 15px;
+    color: rgb(26, 26, 26);
+}
+
+.magical {
+  
+    width: 390px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+}
+
+.button-1 {
+    width: 150px;
+    height: 50px;
+}
+
+.footer {
+    padding-top: 30px;
+}
+
+
+
+.great {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.favorite-movies {
+    gap: 8px;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.favorite-movies-2 {
+    width: 600px;
+    height: 60px;
+}
+
+.button-2 {
+    width: 100px;
+}
+
+.great2 {
+    color: rgb(194, 191, 191);
+    
+}
+
+.holder {
+    display: flex;
+    justify-content: center;
+}
